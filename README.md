@@ -2,12 +2,12 @@
 
 Hello, my name is Kacper!
 
-I'm a C++ software enginner, with a Master's degree in Computer Science, graduated from the [University of Zielona Góra](https://uz.zgora.pl/), Poland, at the [Faculty of Computer, Electrical and Control Engineering](https://wiea.uz.zgora.pl/). My main interrests include programming both in high and low abstraction levels, IoT, general STEM (especially physics, maths and astronomy) and video games. For a couple of years I was an active member of [Space Engineering Science Club](https://knik.spaceregion.eu/) at my university, where I was the team leader of the software and electronics teams. The primary project I took part in and overseen the progress of was a marsian rover prototype, using STM32 microcontrollers as the main platform. I was responsible for the software architecture, communication design between components, and electrical design of the rover.
-My additional activities within the science club included training new members and organizing programming and electronics workshops for middle school students during classes in colaboration with [The Space Research Centre of the Polish Academy of Sciences](https://cbkpan.pl/) (CBK PAN).
+- I'm an Software Eng focused on low level programming;
+- Graduated M.CS from [University of Zielona Góra](https://uz.zgora.pl/), Poland;
+- Interested in STEM, IoT, programming and video games;
+- In free time putting together LEGO models;
 
-# 👨‍💼 Career overview
-
-Details about my education and experience can be checked at [my personal website](https://kacperwojciechowski.com). Feel free to also check out my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kacper-wojciechowski-knik-uz/).
+For details, see my [personal website](https://kacperwojciechowski.eu)!
 
 # 🛰️ Technical stack
 
@@ -32,14 +32,14 @@ Details about my education and experience can be checked at [my personal website
     <tr>
       <td>C</td>
       <td>Ceedling</td>
-      <td>Windows XP-11</td>
+      <td>Windows</td>
       <td>Arduino</td>
       <td>CMock</td>
       <td>Clang-tidy</td>
     </tr>
     <tr>
       <td>Bash</td>
-      <td></td>
+      <td>Cargo</td>
       <td>Docker</td>
       <td></td>
       <td>HAL</td>
@@ -48,13 +48,29 @@ Details about my education and experience can be checked at [my personal website
     <tr>
       <td>Python</td>
       <td></td>
-      <td>FreeRTOS</td>
+      <td>Docker-compose</td>
       <td></td>
       <td></td>
       <td>Objdump</td>
     </tr>
     <tr>
-      <td>Java</td>
+      <td>Rust</td>
+      <td></td>
+      <td>Ubuntu, Arch</td>
+      <td></td>
+      <td></td>
+      <td>QEMU</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>FreeRTOS</td>
+      <td></td>
+      <td></td>
+      <td>Unicorn</td>
+    </tr>
+    <tr>
+      <td></td>
       <td></td>
       <td>TI-RTOS</td>
       <td></td>
@@ -64,18 +80,25 @@ Details about my education and experience can be checked at [my personal website
   </table>
 </div>
 
-Detailed and up-to-date overview of my technical stack and know-how can be found on [my personal website](https://kacperwojciechowski.com/) under the "Skills" tab.
+More detailed overview can be found [here](https://kacperwojciechowski.eu/) under the "Skills" tab!
 
 # 💻 Projects
 
-> - [x] marks project as "finished"
+My projects include:
+- [x] [Embedded integration testing framework]()
+  > Rust, Docker, Unicorn, QEMU
 
-My main projects include:
+  Framework and runtime for integration testing of embedded system binaries
+
+- [x] [Server infrastructure]()
+  > Docker, Docker-compose, Bash, RouterOS, Ubuntu, Arch Linux
+  
+  Infrastructure for a private server hosting websites and personal tools
 
 - [x] [GraphCake](https://github.com/KacperWojciechowski/Graphs):
   > C++20, CMake, GTest 
   
-  Library offering various graph algorithms including vertex coloring, path finding and critical path method.
+  Library offering various graph algorithms including vertex coloring, path finding and critical path method
 
 - [x] [Road To The Center](https://github.com/KacperWojciechowski/RoadToTheCentre):
   > C++20, CMake, GTest
