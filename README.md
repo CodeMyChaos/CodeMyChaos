@@ -85,10 +85,10 @@ More detailed overview can be found [here](https://codemychaos.com/) under the "
 # 💻 Projects
 
 My projects include:
-- [x] [Embedded integration testing framework]()
+- [x] [Grimoire]()
   > Rust, Docker, Unicorn, QEMU
 
-  Framework and runtime for integration testing of embedded system binaries
+  Framework and runtime for integration testing of embedded systems
 
 - [x] [Server infrastructure]()
   > Docker, Docker-compose, Bash, RouterOS, Ubuntu, Arch Linux
