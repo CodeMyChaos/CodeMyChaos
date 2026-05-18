@@ -2,12 +2,12 @@
 
 Hello, my name is Kacper!
 
-- I'm an Software Eng focused on low level programming;
+- I'm a Software Eng focused on low level programming;
 - Graduated M.CS from [University of Zielona Góra](https://uz.zgora.pl/), Poland;
 - Interested in STEM, IoT, programming and video games;
 - In free time putting together LEGO models;
 
-For details, see my [personal website](https://kacperwojciechowski.eu)!
+For details, see my [personal website](https://codemychaos.com)!
 
 # 🛰️ Technical stack
 
@@ -80,7 +80,7 @@ For details, see my [personal website](https://kacperwojciechowski.eu)!
   </table>
 </div>
 
-More detailed overview can be found [here](https://kacperwojciechowski.eu/) under the "Skills" tab!
+More detailed overview can be found [here](https://codemychaos.com/) under the "Skills" tab!
 
 # 💻 Projects
 
