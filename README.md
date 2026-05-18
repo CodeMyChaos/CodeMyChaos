@@ -85,12 +85,12 @@ More detailed overview can be found [here](https://codemychaos.com/) under the "
 # 💻 Projects
 
 My projects include:
-- [x] [Grimoire]()
-  > Rust, Docker, Unicorn, QEMU
+- [x] [Grimoire]():
+  > Rust, Renode, Docker
 
   Framework and runtime for integration testing of embedded systems
 
-- [x] [Server infrastructure]()
+- [x] [Server infrastructure]():
   > Docker, Docker-compose, Bash, RouterOS, Ubuntu, Arch Linux
   
   Infrastructure for a private server hosting websites and personal tools
