@@ -17,17 +17,17 @@ For details, see my [personal website](https://codemychaos.com)!
       <th>Languages</th>
       <th>Build systems</th>
       <th>OS and containers</th>
-      <th>Devices</th>
+      <th>MCUs</th>
       <th>Frameworks</th>
       <th>Tools</th>
     </tr>
     <tr>
       <td>C++</td>
       <td>CMake</td>
-      <td>Linux (Ubuntu, Arch)</td>
+      <td>Linux</td>
       <td>STM32</td>
       <td>GTest</td>
-      <td>Clang-format</td>
+      <td>Clang utils</td>
     </tr>
     <tr>
       <td>C</td>
@@ -35,47 +35,31 @@ For details, see my [personal website](https://codemychaos.com)!
       <td>Windows</td>
       <td>Arduino</td>
       <td>CMock</td>
-      <td>Clang-tidy</td>
+      <td>Gerrit / GitLab</td>
     </tr>
     <tr>
       <td>Bash</td>
-      <td>Cargo</td>
+      <td>BitBake</td>
       <td>Docker</td>
       <td></td>
       <td>HAL</td>
-      <td>Gdb</td>
+      <td>Gcc-arm-none-eabi</td>
+    </tr>
+    <tr>
+      <td>Rust</td>
+      <td>Cargo</td>
+      <td>FreeRTOS</td>
+      <td></td>
+      <td></td>
+      <td>Gcc / G++</td>
     </tr>
     <tr>
       <td>Python</td>
       <td></td>
-      <td>Docker-compose</td>
-      <td></td>
-      <td></td>
-      <td>Objdump</td>
-    </tr>
-    <tr>
-      <td>Rust</td>
-      <td></td>
-      <td>Ubuntu, Arch</td>
-      <td></td>
-      <td></td>
-      <td>QEMU</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>FreeRTOS</td>
-      <td></td>
-      <td></td>
-      <td>Unicorn</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
       <td>TI-RTOS</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>QEMU, Renode</td>
     </tr>
   </table>
 </div>
@@ -91,7 +75,7 @@ My projects include:
   Framework and runtime for integration testing of embedded systems
 
 - [x] [Server infrastructure]():
-  > Docker, Docker-compose, Bash, RouterOS, Ubuntu, Arch Linux
+  > Docker, Bash, RouterOS, Ubuntu, Arch Linux
   
   Infrastructure for a private server hosting websites and personal tools
 
@@ -111,7 +95,5 @@ My projects include:
   Network dungeon crawler game based on client-server model, utilizing a custom random map generation algorithm
   
 # 🧑‍🔬 Research
-
-Thesis:
 - [x] B.CS: [Methods of Implementing a Network Interface in IoT Modules](https://www.researchgate.net/publication/390465807_Methods_of_implementing_a_network_interface_in_IoT_modules)
 - [x] M.CS: [Comparative Analysis of Machine Learning Libraries in C++ for Applications in Biostatistics](https://www.researchgate.net/publication/382162127_Comparative_Analysis_of_Machine_Learning_Libraries_in_C_for_Applications_in_Biostatistics)
