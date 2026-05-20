@@ -1,9 +1,5 @@
 # Self-development summary
 
-## Books in progress
-
-## Video courses in progress
-
 ## Completed books
 - [x] *''Hands-On Machine Learning with C++''* by Kirill Kolodiazhnyi
 - [x] *''Opus Magnum C++11. Programowanie w języku C++''* - Tome 1-3, by Jerzy Grębosz
