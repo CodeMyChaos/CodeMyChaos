@@ -9,6 +9,8 @@ Hello, my name is Kacper!
 
 For details, see my [personal website](https://codemychaos.com)!
 
+> ___IMPORTANT___: I migrated to GitLab, you can find my most recent activity on my [GitLab Profile](https://gitlab.com/CodeMyChaos).
+
 # 🛰️ Technical stack
 
 <div align="center">
@@ -69,8 +71,8 @@ More detailed overview can be found [here](https://codemychaos.com/) under the "
 # 💻 Projects
 
 My projects include:
-- [x] [Grimoire]():
-  > Rust, Renode, Docker
+- [x] [ARM-ament]():
+  > Rust, Renode, Docker, Bash, Arch Linux
 
   Framework and runtime for integration testing of embedded systems
 
@@ -79,20 +81,22 @@ My projects include:
   
   Infrastructure for a private server hosting websites and personal tools
 
-- [x] [GraphCake](https://github.com/KacperWojciechowski/Graphs):
+- [x] [GraphCake](https://gitlab.com/CodeMyChaos/graphcake):
   > C++20, CMake, GTest 
   
   Library offering various graph algorithms including vertex coloring, path finding and critical path method
 
-- [x] [Road To The Center](https://github.com/KacperWojciechowski/RoadToTheCentre):
+- [x] [Road To The Center](https://gitlab.com/CodeMyChaos/roadtothecenter):
   > C++20, CMake, GTest
   
   A text-based economic game where the goal is to travel to the center of the galaxy, made during an amateur game jam between me and my friends
    
-- [x] [DungeonCrawler](https://github.com/KacperWojciechowski/DungeonCrawler):
+- [x] [DungeonCrawler](https://gitlab.com/CodeMyChaos/university):
   > Java, Maven
   
-  Network dungeon crawler game based on client-server model, utilizing a custom random map generation algorithm
+  Network dungeon crawler game based on client-server model, utilizing a custom random map generation algorithm.
+
+  > _NOTE_: This project has been moved together with other university projects of mine - feel free to check them out aswell!
   
 # 🧑‍🔬 Research
 - [x] B.CS: [Methods of Implementing a Network Interface in IoT Modules](https://www.researchgate.net/publication/390465807_Methods_of_implementing_a_network_interface_in_IoT_modules)
