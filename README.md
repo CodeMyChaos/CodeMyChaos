@@ -76,11 +76,6 @@ My projects include:
 
   Framework and runtime for integration testing of embedded systems
 
-- [x] [Server infrastructure]():
-  > Docker, Bash, RouterOS, Ubuntu, Arch Linux
-  
-  Infrastructure for a private server hosting websites and personal tools
-
 - [x] [GraphCake](https://gitlab.com/CodeMyChaos/graphcake):
   > C++20, CMake, GTest 
   
